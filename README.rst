@@ -69,9 +69,11 @@ The last major section of content will be extending Sphinx. This allows users to
 
 At the end, we'll walk through some examples of some more advanced and interesting features and concepts in Sphinx, guided by questions that users have in the class.
 
+Contact
+-------
 
-.. toctree::
-   :maxdepth: 2
+You can contact us at training@readthedocs.com for more information on our training classes.
+We look forward to working with you!
 
 
 .. _largest: http://www.alexa.com/siteinfo/readthedocs.io
