@@ -36,6 +36,7 @@ We provide a couple different courses to fit any range of experience.
 
 .. contents::
    :local:
+   :backlinks: none
 
 Introduction to Sphinx
 ~~~~~~~~~~~~~~~~~~~~~~
