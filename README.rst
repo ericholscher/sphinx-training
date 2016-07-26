@@ -25,9 +25,9 @@ we can deliver it on site at your company.
 Testomonials
 ------------
 
-I just wanted to send a short note to say thanks for the the great tutorial on Sphinx. I knew nothing about either going in, but really needed to learn as I needed to get some documentation completed for my small clustering library which has become increasingly popular. I'm happy to say that I now have documentation up at http://hdbscan.readthedocs.io/en/latest/ and it is all thanks to your tutorial! It provided me with everything I needed to go from nothing to actually having good looking hosted documentation.
+    I just wanted to send a short note to say thanks for the the great tutorial on Sphinx. I knew nothing about either going in, but really needed to learn as I needed to get some documentation completed for my small clustering library which has become increasingly popular. I'm happy to say that I now have documentation up at http://hdbscan.readthedocs.io/en/latest/ and it is all thanks to your tutorial! It provided me with everything I needed to go from nothing to actually having good looking hosted documentation.
 
-- `Leland McInnes <https://github.com/lmcinnes>`_, who attended our half-day training at Pycon 2016
+- `Leland McInnes <https://github.com/lmcinnes>`_, who attended our half-day training at Pycon 2016.
 
 Courses
 -------
