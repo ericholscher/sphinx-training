@@ -22,7 +22,7 @@ as well as custom training based on your needs.
 If one of the classes below looks good,
 we can deliver it on site at your company.
 
-Testomonials
+Testimonials
 ------------
 
     I just wanted to send a short note to say thanks for the the great tutorial on Sphinx. I knew nothing about either going in, but really needed to learn as I needed to get some documentation completed for my small clustering library which has become increasingly popular. I'm happy to say that I now have documentation up at http://hdbscan.readthedocs.io/en/latest/ and it is all thanks to your tutorial! It provided me with everything I needed to go from nothing to actually having good looking hosted documentation.
